@@ -1,0 +1,10 @@
+30th January 2024 - 
+
+Currently I'm working on ticket WW-2 which is just the creation of the home page. In reality I'm just refreshing and improving 
+my knowledge of React, Javascript, CSS and HTML. Today I spent my time figuring out how to use flexboxes so I could have a profile
+photo next to my bio only to realise that if I want my website to look proffesional then I want to have a hero section so 
+creating that will be my next task. Nevertheless I started to gain a better understanding of
+the 'react-native' and 'styled-components' libraries and today I'll push the code up to git for the first time since
+the react app was initialised. I'll attach a photo for what the website currently looks like. For now I will be writing the
+log entries here on a txt file in the hope that I can write some code that will parse these entries into a more presentable format
+for the website and then maybe create the functionality within the website to write log entries and have them stored on a database.
