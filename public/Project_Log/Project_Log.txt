@@ -8,3 +8,10 @@ the 'react-native' and 'styled-components' libraries and today I'll push the cod
 the react app was initialised. I'll attach a photo for what the website currently looks like. For now I will be writing the
 log entries here on a txt file in the hope that I can write some code that will parse these entries into a more presentable format
 for the website and then maybe create the functionality within the website to write log entries and have them stored on a database.
+
+2nd Febuary 2024 - 
+
+I've made my hero section using styled-components. It's mainly taken from an article: https://medium.com/@ryaddev/creating-a-stunning-hero-section-in-react-with-styled-components-e84d060f6cdc
+but I've made changes and will continue to make changes to it. I've left the previous home page still underneath the hero section. I'll
+add a new photo here with the decsription that I want to add to the home page. Forgive the silly photo that comes with the log here. I'm happy with 
+the basics. The home page just needs more styling, the download CV button must work and then I just need to finish the text on and its done.
