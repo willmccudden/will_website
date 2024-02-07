@@ -1,14 +1,17 @@
-import React from "react";
 import styled from "styled-components";
-import img from './HeroPhoto.JPG';
+import img from './HeroPhoto.jpg';
+
 
 const HeroSection = styled.section`
-  background: linear-gradient(to bottom, #0a0c2c80 3rem, transparent 10rem),url(${img});
+  background: 
+  // linear-gradient(to bottom, #d3e8ed 1rem, transparent 4rem), 
+  // linear-gradient(to top, white 1rem, transparent 5rem),
+  url(${img}) ;
   background-position: center, top left;
   background-size: cover, cover;
   height: fit-content;
   color: #fafafc;
-  padding: 16rem 4rem 8rem;
+  padding: 18rem 4rem 12rem;
   .heroInner {
     display: flex;
     max-width: 1200px;
@@ -22,15 +25,17 @@ const HeroSection = styled.section`
     font-size: 1.15rem;
     font-weight: 600;
     font-family: Arial;
-    color: #2e2e48;
-    background: #fafafc;
+    color: white;
+    // background: #fafafc;
     border-radius: 0.2rem;
     transition: all 0.1s;
-    box-shadow: 0 0.5rem 1.5rem -0.5rem currentColor;
+    // box-shadow: 0 0.5rem 1.5rem -0.5rem currentColor;
   }
   .btn:hover,
   .btn:focus {
-    box-shadow: 0 0 0 2px #2e2e48, 0 0 0 4px #fafafc;
+    // box-shadow: 0 0 0 2px #2e2e48, 0 0 0 4px #fafafc;
+    color: red
+    
   }
 
   .btn:active {
@@ -41,23 +46,13 @@ const HeroSection = styled.section`
   }
   h1 {
     font-weight: 900;
-    color: #2e2e48;
-    -webkit-text-stroke-width: 0.5px;
-    -webkit-text-stroke-color: white;
-    font-size: clamp(2rem, 5.5vw, 3.25rem);
-    font-family: Arial;
+    color: white;
+    // -webkit-text-stroke-width: 0.3px;
+    // -webkit-text-stroke-color: black;
+    font-size: clamp(3rem, 8vw, 4rem);
+    font-family: Manrope;
     line-height: 1.2;
     margin-bottom: 1.5rem;
-  }
-  @media (max-width: 576px) {
-    background: linear-gradient(to bottom, #0a0c2c80 3rem, transparent),
-      url(https://images.pexels.com/photos/133325/pexels-photo-133325.jpeg?auto=compress&cs=tinysrgb&w=800&h=750&dpr=1);
-    background-position: center, bottom left;
-    background-size: cover, cover;
-    align-items: flex-start;
-    padding-top: 7.5rem;
-    height: 75vh;
-    max-height: 720px;
   }
 `;
 

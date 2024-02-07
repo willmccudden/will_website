@@ -15,3 +15,10 @@ I've made my hero section using styled-components. It's mainly taken from an art
 but I've made changes and will continue to make changes to it. I've left the previous home page still underneath the hero section. I'll
 add a new photo here with the decsription that I want to add to the home page. Forgive the silly photo that comes with the log here. I'm happy with 
 the basics. The home page just needs more styling, the download CV button must work and then I just need to finish the text on and its done.
+
+7th Febuary 2024 - 
+
+The website Home Page is really taking shape. I've primarily been focussed on styling and making the website look
+appealing. The Hero Section photo has changed and instead of a single profile photo with one long paragraph of
+text I've added multiple photos and enlarged the text to give brief descriptions of the stages of my life. This is after looking
+at other good examples of personal websites. I've also been using the google fonts library to imprive the text.
