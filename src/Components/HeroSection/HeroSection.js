@@ -11,7 +11,7 @@ const HeroSection = styled.section`
   background-size: cover, cover;
   height: fit-content;
   color: #fafafc;
-  padding: 18rem 4rem 12rem;
+  padding: 18rem 4rem 14rem;
   .heroInner {
     display: flex;
     max-width: 1200px;

@@ -21,4 +21,5 @@ the basics. The home page just needs more styling, the download CV button must w
 The website Home Page is really taking shape. I've primarily been focussed on styling and making the website look
 appealing. The Hero Section photo has changed and instead of a single profile photo with one long paragraph of
 text I've added multiple photos and enlarged the text to give brief descriptions of the stages of my life. This is after looking
-at other good examples of personal websites. I've also been using the google fonts library to imprive the text.
+at other good examples of personal websites. I've also been using the google fonts library to imprive the text and I created my own Favicon/Logo here:
+https://favicon.io/favicon-generator/

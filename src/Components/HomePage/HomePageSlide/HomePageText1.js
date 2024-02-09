@@ -1,1 +1,2 @@
-export default `My name is Will McCudden and I'm a Software Engineer from England. I started my journey in Computer Science at The University Of Birmingham`; 
+export default `I studied at the University of Birmingham in the UK completing a B.Sc. Mathematics and M.Sc. Computer Science.
+I specialised in Java, SQL and C++. I also took an extra course in Cryptography.`; 

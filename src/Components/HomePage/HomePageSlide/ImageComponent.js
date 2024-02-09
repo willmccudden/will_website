@@ -1,4 +1,4 @@
-import {Image, View} from 'react-native';
+import './ImageComponent.css'
 
 function ImageComponent (props) {
 

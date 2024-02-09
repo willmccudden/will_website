@@ -1,0 +1,1 @@
+export default `I'm very proud of my two and a half years at IBM as a technical consultant on the Scottish Government Welfare project. I primarily worked with Java and SQL while working closely with Business Analysts and Testers to deliver high quality code and resolve technical issues.`; 

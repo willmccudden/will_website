@@ -1,5 +1,14 @@
 p {
     color : black;
     font-family : JetBrains Mono;
-    font-size : 25px
+    font-size : 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    color : black;
+    font-family : JetBrains Mono;
+    font-size : 50px;
+    text-align: center;
 }
