@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin : 0;
+}
+
+.nav {
+    display: flex;
+    gap: 0rem;
+    padding: 0;
+    border: 0;
+    justify-content: right;
+    padding-right: 2.5rem;
+}
+
+.nav li {
+    padding: 1rem;
+    background-color: aliceblue;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0rem;
+    list-style: none;
+    justify-content:flex-end;
+    border: 0;
+}
+
+.nav a {
+    font-family: Manrope;
+    font-size: large;
+    text-decoration: none;
+    color: black;
+}
+
+.nav a:hover {
+    color: darkviolet;
+}

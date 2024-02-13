@@ -1,13 +1,14 @@
 
 import styled from 'styled-components';
 import './HomePageSlide.css';
-import { useState, useRef, useEffect } from 'react';
 
 const Container = styled.div`
     display: flex;
     padding: 6em
     height: 305px
     opacity: ${props => props.hiddenValue}
+    justify-content: center;
+    align-items: center;
 `;
 
 const Pane = styled.div`

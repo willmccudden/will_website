@@ -1,2 +1,4 @@
-export default `I studied at the University of Birmingham in the UK completing a B.Sc. Mathematics and M.Sc. Computer Science.
-I specialised in Java, SQL and C++. I also took an extra course in Cryptography.`; 
+const HomePageText1 = `B.Sc. Mathematics and M.Sc. Computer Science from the University of Birmingham in the UK
+specialising in Java, SQL and C++.`; 
+
+export default HomePageText1;

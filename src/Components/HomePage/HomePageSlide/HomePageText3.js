@@ -1,2 +1,2 @@
-export default `I've recently migrated to Sydney with my girlfriend, Ell, and I'm looking to continue my journey in the tech industry. I'm currently looking for
-work and have been developing this website in the meantime to keep myself occupied.`; 
+const HomePageText3 = `Recently migrated to Sydney. I'm looking to continue my journey in the tech industry. I'm developing my skills as a front end developer while I search for job opportunities`; 
+ export default HomePageText3;

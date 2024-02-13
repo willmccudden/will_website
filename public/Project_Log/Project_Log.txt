@@ -23,3 +23,12 @@ appealing. The Hero Section photo has changed and instead of a single profile ph
 text I've added multiple photos and enlarged the text to give brief descriptions of the stages of my life. This is after looking
 at other good examples of personal websites. I've also been using the google fonts library to imprive the text and I created my own Favicon/Logo here:
 https://favicon.io/favicon-generator/
+
+8th Febuary 2024 - 
+Today I've added the animation for each of the home page slides. Mainly based on a video here: https://www.youtube.com/watch?v=hjbxaYTMhy0
+
+13th Febuary 2024 - 
+I've decided to move on from working on the Home page. I think it looks good enough for now, more changes are definitely required to make it look as proffesional as possible
+but I also don't want to get tied up constantly adjusting it. I've moved on to the Navbar. For now, it will only contain links to the Home Page and the Work Log. I don't think it'll
+take more than a day. You can see from the image it will be there on the right hand side of the Hero Section. I just need to look into how react Router Dom works and then I'll either start
+on the work log page or the footer. I'm happy with my progress though and I'm excited to get the website up and running.
