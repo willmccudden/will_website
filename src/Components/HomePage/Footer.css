@@ -1,0 +1,42 @@
+.footer {
+    display: flex;
+    background-color: #e7ebe6;
+    color: black;
+    padding: 2em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer li {
+    font-size: small;
+    list-style: none;
+    font-weight: normal;
+    padding-top: 1rem;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.footer a {
+    font-family: Manrope;
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+.footer h3 {
+    font-family: Manrope;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+
+.col {
+    padding-right: 15rem;
+}

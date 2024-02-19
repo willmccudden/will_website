@@ -32,3 +32,22 @@ I've decided to move on from working on the Home page. I think it looks good eno
 but I also don't want to get tied up constantly adjusting it. I've moved on to the Navbar. For now, it will only contain links to the Home Page and the Work Log. I don't think it'll
 take more than a day. You can see from the image it will be there on the right hand side of the Hero Section. I just need to look into how react Router Dom works and then I'll either start
 on the work log page or the footer. I'm happy with my progress though and I'm excited to get the website up and running.
+
+19th Febuary 2024 - 
+
+The Navbar is completed up to the standard that I would like and I've added the router components so that the Navbar now links to a basic Project Log
+page. I've also started on the footer but the functional links and styling needs to be added to this. I decided I'm going to do the project log with a 
+simple mongo DB database for now. I remember that you can create one that is free to host and can be called easily with a React project. This is mainly
+just so that I can write these project logs through the website rather than in a txt file. I may have to migrate the mongo database at a future date. I'm very eager
+to get the website up and running and functional so I can put it on my CV. Hence, after I push the project up today I'll be hosting it with Github pages 
+for now. This won't be the long term solution it'll just be nice to get it up. Otherwise, the project needs a lot of boring house cleaning work. The file
+structure is not great and I'm sure there's lots of wasteful code. I'm going to create an Epic on the Jira project 'House Keeping' to be a continous ticket 
+for any of that sort of work that needs doing throughout the project. 
+
+I'll also take the time now to envision what I want for the Work Log. I don't think it'll be big on styling, just a simple page that can list all of these logs.
+One feature that I really like the idea of is a button for each log that opens a modal window to the images for that log. A potential issue is where to store the images. I'database
+I'd like to be able to upload them through the website so a list of local images isn't a possibility. I'm also not sure what the limit is on storage in the free mongoDB 
+database. This is an issue I'll have to tackle soon.
+
+One last thing, I'm becoming more and more concious of how the website displays on different decives/ screens. I connected a monitor to my laptop today and the display is very different
+and I haven't even checked to see what it looks like on a phone. I'll check this in a moment once the website is being hosted!

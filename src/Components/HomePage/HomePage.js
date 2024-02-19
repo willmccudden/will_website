@@ -9,6 +9,7 @@ import HomePageText3 from './HomePageSlide/HomePageText3';
 import { Reveal } from '../UtilComponents/Reveal';
 import styled from 'styled-components';
 import NavBar from '../NavBar/NavBar';
+import { View } from 'react-native-web';
 
 
 const WholePage = styled.div`
@@ -27,34 +28,37 @@ function HomePage() {
 
     return (
         <div>
-            <HeroSection className="light hero">
-            <NavBar/>
+            <View style={{height: '100%'}}>
+            <HeroSection>   
+
+                <NavBar/>
                 <div className="heroInner">
                     <span>
                         <h1>Will McCudden</h1>
                     </span>
                 </div>
             </HeroSection>
+            </View>
             <WholePage>
                 <Column weight={6}>
 
                     <h1>---- MY JOURNEY ----</h1>
                     <Reveal>
-                        <HomePageSlide leftWeight={1} rightWeight={2}>
+                        <HomePageSlide leftWeight={1} rightWeight={3}>
                             <ImageComponent imagePath='./UniversityPhoto.jpg' />
                             <p className='slide-text'>{HomePageText1}</p>
                         </HomePageSlide>
                     </Reveal>
 
                     <Reveal>
-                        <HomePageSlide leftWeight={1} rightWeight={2}>
+                        <HomePageSlide leftWeight={1} rightWeight={3}>
                             <ImageComponent imagePath='./IBMLogo.png' />
                             <p className='slide-text'>{HomePageText2}</p>
                         </HomePageSlide>
                     </Reveal>
 
                     <Reveal>
-                        <HomePageSlide leftWeight={1} rightWeight={2}>
+                        <HomePageSlide leftWeight={1} rightWeight={3}>
                             <ImageComponent imagePath='./SurfingPhoto.jpg' />
                             <p className='slide-text'>{HomePageText3}</p>
                         </HomePageSlide>

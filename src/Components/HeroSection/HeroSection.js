@@ -7,16 +7,16 @@ const HeroSection = styled.section`
   url(${img}) ;
   background-position: center, top left;
   background-size: cover, cover;
-  height: fit-content;
+  height: 100vh;
   color: #fafafc;
-  padding: 2rem 4rem 14rem;
+  padding: 2rem 2rem 10rem;
   
 
   .heroInner {
     display: flex;
-    max-width: 1200px;
+    align-items:center;
     margin: 0 auto;
-    padding-top: 6rem
+    padding-left: 2rem
   }
   span {
     max-width: 50%;
@@ -24,10 +24,11 @@ const HeroSection = styled.section`
   h1 {
     font-weight: 900;
     color: white;
-    font-size: clamp(3rem, 8vw, 4rem);
+    font-size: clamp(3rem, 8vw, 5rem);
     font-family: Manrope;
     line-height: 1.2;
     margin-bottom: 1.5rem;
+    align-items: left
   }
 `;
 
