@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import img from './HeroPhoto.jpg';
+import img from './HeroPhoto.JPG';
 
 
 const HeroSection = styled.section`
