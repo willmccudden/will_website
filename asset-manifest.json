@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/will_website/static/css/main.a1bd27f6.css",
-    "main.js": "/will_website/static/js/main.482aa167.js",
+    "main.js": "/will_website/static/js/main.9138fb47.js",
     "static/media/SurfingPhoto.jpg": "/will_website/static/media/SurfingPhoto.b10ad366f975098d3d3c.jpg",
     "static/media/HeroPhoto.jpg": "/will_website/static/media/HeroPhoto.908900c13238a0ccf155.jpg",
     "static/media/UniversityPhoto.jpg": "/will_website/static/media/UniversityPhoto.ff1e87e109cf93cc4168.jpg",
     "index.html": "/will_website/index.html",
     "main.a1bd27f6.css.map": "/will_website/static/css/main.a1bd27f6.css.map",
-    "main.482aa167.js.map": "/will_website/static/js/main.482aa167.js.map"
+    "main.9138fb47.js.map": "/will_website/static/js/main.9138fb47.js.map"
   },
   "entrypoints": [
     "static/css/main.a1bd27f6.css",
-    "static/js/main.482aa167.js"
+    "static/js/main.9138fb47.js"
   ]
 }
